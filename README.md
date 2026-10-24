@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/faizanfareedkhan/leet_code/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/faizanfareedkhan/leet_code/tree/master/0090-subsets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/faizanfareedkhan/leet_code/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/faizanfareedkhan/leet_code/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
