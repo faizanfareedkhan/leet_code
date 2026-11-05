@@ -1,0 +1,18 @@
+name: Refresh profile
+
+# LeetHub pushes every accepted solution here, so tell the profile repo to rebuild its stats.
+on:
+  push:
+    branches: [main]
+
+permissions: {}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Trigger the profile stats workflow
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_REFRESH_TOKEN }}
+        run: gh workflow run profile-stats.yml --repo faizanfareedkhan/faizanfareedkhan --ref main
