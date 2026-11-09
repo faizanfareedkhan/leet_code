@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/faizanfareedkhan/leet_code/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/faizanfareedkhan/leet_code/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/faizanfareedkhan/leet_code/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/faizanfareedkhan/leet_code/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/faizanfareedkhan/leet_code/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
